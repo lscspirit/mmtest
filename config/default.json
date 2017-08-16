@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "test1234",
+    "database": "mmtest",
+    "pool_max": 10
+  }
+}
